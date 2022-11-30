@@ -2,7 +2,9 @@
 
 ## Requirements
 
-To run script, used `python 3.10 - 3.11`
+used match ( [PEP 636](https://peps.python.org/pep-0636/) ) 
+
+To run script you need `python >=3.10`
 
 ## Sample Execution & Output
 
