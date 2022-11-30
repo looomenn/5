@@ -24,7 +24,7 @@ Find the remainder from dividing:
 
 $$2^{100} + 5^{200} : 29 \ (ex.)$$
 
-So, we need to replce power of $\boldsymbol{100}$ and $\boldsymbol{200}$ to some normal numbers. From theory of division with remainder $ \implies $ we need power of 2 (ex.) when it is equal to 1 or -1, so we can replace it.
+As a result, we must convert the power of $\boldsymbol{100}$ and $\boldsymbol{200}$ to some normal numbers. According to the theory of division with remainder we need power of 2 (from ex.) when it is equal to 1 or -1, so we can replace it.
 
 Additionaly, $\boldsymbol{A}$ is a firstly given number (base number), $\boldsymbol{P}$ is number that we want ( power of base number ) and $\boldsymbol{M}$ - modulus.
 
@@ -72,7 +72,7 @@ Output format
 
 ### Sample output
 
-```
+```shell
 [DEBUG] operation: -     power: 3     old: 343   new: 243
 [DEBUG] operation: -     power: 3     old: 243   new: 143
 [DEBUG] operation: -     power: 3     old: 143   new: 43
