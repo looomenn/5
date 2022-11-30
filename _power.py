@@ -64,8 +64,3 @@ if __name__ == "__main__":
 
     for case in range(int(input())):
         print(f'Case #{case+1}: {main()}')
-
-# 1 - debug?
-# 0 - stop on 1 | -1  ?
-# 1 - test-cases
-# 7 10 100 - test case
