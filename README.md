@@ -38,7 +38,7 @@ The first line of the input gives state of program output:
  0 - Limit On | 1 - Limit off | 2 - Debug + Limit on | 3 - Debug only
 ```
 
-The second line gives the number of test cases, $\boldsymbol{T}$. $\boldsymbol{T}$ test cases follow. Each test case has a single line containing three integers, **_A_**, **_P_** and **_M_**, as described above.
+The second line gives the number of test cases, $\boldsymbol{T}$. $\boldsymbol{T}$ test cases follow. Each test case has a single line containing three integers, $\boldsymbol{A}$, $\boldsymbol{P}$ and $\boldsymbol{M}$, as described above.
 
 > In program A = given_int; P = power; M = modulus
 
