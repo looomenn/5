@@ -1,4 +1,3 @@
-![python req](https://img.shields.io/pypi/pyversions/match?style=plastic)
 ![last commit](https://img.shields.io/github/last-commit/looomenn/replace_power)
 
 ## Requirements
